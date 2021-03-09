@@ -13,12 +13,12 @@ body{
 }
 
 .header h1{
-    font-size: 40px;
+    font-size: 30px;
     color: #ec2f7e;
 }
 
 .content p{
-    font-size: 25px;
+    font-size: 18px;
     color: crimson;
     font-weight: 600;
 }
