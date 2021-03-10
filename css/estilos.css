@@ -12,13 +12,33 @@ body{
     background-color: #ecdcfc;
 }
 
+.header{
+    display: flex;
+    justify-content:right;
+    color: #ffffff;
+    background-color: #396efd;
+    border-top-left-radius: 13px;
+    border-top-right-radius: 13px;
+    padding: 10px;
+    box-shadow: 0px 5px 7px 0px #000000;
+}
+
 .header h1{
-    font-size: 40px;
-    color: #ec2f7e;
+    font-size: 30px;
+    margin: 0;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.header span{
+    font-size: 21px;
+    font-weight: bold ;
+    margin-top: 5px;
+    margin-left: 10px;
 }
 
 .content p{
-    font-size: 25px;
+    font-size: 18px;
     color: crimson;
     font-weight: 600;
     width: 70%;
