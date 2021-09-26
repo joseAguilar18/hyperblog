@@ -14,7 +14,7 @@ body{
 
 .header{
     display: flex;
-    justify-content:right;
+    justify-content:flex-start;
     color: #ffffff;
     background-color: #396efd;
     border-top-left-radius: 13px;
@@ -39,7 +39,7 @@ body{
 
 .content p{
     font-size: 18px;
-    color: blue;
+    color: rgb(20, 20, 32);
     font-weight: 600;
     width: 70%;
     margin-left: auto;
