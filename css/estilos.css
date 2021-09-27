@@ -55,7 +55,7 @@ footer{
     width: 80%;
     border: 1px solid #000000;
     border-top: 0px;
-    background-color: antiquewhite;
+    background-color: rgb(229, 233, 248);
     border-bottom-left-radius: 15px;
     border-bottom-right-radius: 15px;
 }
